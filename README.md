@@ -8,7 +8,7 @@ A modern management dashboard application built with **Next.js 14 App Router**, 
 
 - ✅ **Authentication** with Supabase (Email & OAuth)
 - ✅ **Role-Based Access Control** (Admin and User roles)
-- ✅ **Next.js 14 App Router** with server and client components
+- ✅ **Next.js 15 App Router** with server and client components
 - ✅ **Server Actions** for modern form handling
 - ✅ **Responsive Design** with TailwindCSS
 - ✅ **TypeScript** for type safety
